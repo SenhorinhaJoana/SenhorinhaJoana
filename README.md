@@ -1,7 +1,7 @@
 # Olá, eu sou Senhorinha Joana Alves! 👋
 
 <p align="center">
-  <img src="https://scontent.cdninstagram.com/v/t51.2885-19/440388673_7084450794998093_7646279254438339987_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=eb5iwv0Bq4YQ7kNvgG6Vt63&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYC8fMcqk4-apo4cGtskMQ6YSFflo0r-tXZk72eom5qNOw&oe=665AC740&_nc_sid=10d13b" alt="Senhorinha Joana Alves" width="200" style="border-radius:50%; border:2px solid #4CAF50;">
+  <img src="https://media.licdn.com/dms/image/D4D16AQHEw1eHdMo4Dw/profile-displaybackgroundimage-shrink_350_1400/0/1709899351441?e=1722470400&v=beta&t=Fzd0rPiP-Lp7n42dZUrnKnO2T-JHKqrPrBgtjcVe5-o" alt="Senhorinha Joana Alves" width="1020" style="border-radius:50%; border:2px solid #4CAF50;">
 </p>
 
 Apaixonada por tecnologia e sempre em busca de novos desafios! Estou em formação como FullStack Developer e Cientista de Dados. Combinando habilidades técnicas (hard skills) com minhas habilidades interpessoais (soft skills), estou construindo uma carreira na área de tecnologia, sempre focada em aprender e evoluir.
