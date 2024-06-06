@@ -38,6 +38,7 @@ Peixtech é uma startup focada na formação de jovens negros da comunidade de P
 
 - [LinkedIn](https://www.linkedin.com/in/senhorinha-joana-alves-585b832a3/)
 - [Portfólio](https://github.com/senhorinhajoanaalves)
+- [Curriculo](https://senhorinhajoana.github.io/curriculo-online/)
 
 Estou animada com as oportunidades que o mundo da tecnologia oferece e estou pronta para colaborar e explorar o vasto universo da programação!
 
